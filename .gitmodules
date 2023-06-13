@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Kaku-g/mdhoster-backend.git
+[submodule "client"]
+	path = client
+	url = https://github.com/Kaku-g/mdhoster-frontend.git
